@@ -365,7 +365,7 @@ class Students:
 #     # <---------------function decelation for  data add-------------------------------->
     
     def add_data(self):
-      if self.var_dep.get()=="Select department" or self.var_std_name.get()=="" or self.var_std_id=="":
+      if self.var_dep.get()=="Select department" or self.var_std_id=="" or self.var_std_name.get()=="" :
        messagebox.showerror("Error","All fields are required",parent=self.root)
       else:
        
