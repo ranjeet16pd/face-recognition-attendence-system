@@ -25,7 +25,11 @@ pip install pyttsx3
 
 i host the database with online sever by chance if online server is not working then do the following instruction :
 
-so i also provide the two sql file (i) studnet.sql (ii) register.sql
+so i also provide the two sql file 
+
+(i) face_recognition_studnet.sql 
+
+(ii) face_recognition_register.sql
 
 so just import these sql file in MySQL workbench in your local machine and make a new databse file and give the databse name as (face_recognition).
 
