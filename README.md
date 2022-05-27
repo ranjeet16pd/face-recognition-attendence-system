@@ -25,7 +25,7 @@ pip3 install Pillow
 
 pip install pyttsx3
 
-i host the database with online sever by chance if online server is not working then do the following instruction :
+i host the database with online sever by chance if online server is not working or running slow then do the following instruction :
 
 so i also provide the two sql file 
 
