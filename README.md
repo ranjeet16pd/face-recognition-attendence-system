@@ -5,6 +5,8 @@ i used python (3.9.7 version)
 
 To Run the Program first install the required library:
 
+(RUN FROM MAIN FILE. the main file is    login.py)
+
 pip3 install opencv-python
 
 pip3 install opencv-contrib-python
